@@ -15,5 +15,5 @@
 
 ## Repositories
 - [Paper Notes](https://bupt-ai-club.github.io/paperNotes)
-- [EfficientML](https://bupt-ai-club.github.io/EfficientML)
+- [awesome-compression](https://github.com/bupt-ai-club/awesome-compression)
 - [awesomeProject](https://bupt-ai-club.github.io/awesomeProject)
